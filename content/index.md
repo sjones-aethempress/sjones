@@ -1,5 +1,6 @@
 ---
-title: Welcome to Quartz
+title: The Official Site of Sion Jones
+date: 2025-08-01
 ---
 
 This is a blank Quartz installation.
