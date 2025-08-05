@@ -20,7 +20,7 @@ So come in, take a seat, read a little.
 If you leave with a feeling you can’t name, then it’s doing its job.
 
 ---
-[[content/About/_index|About]]  [[content/Books/_index|Books]]  [[content/Columns/_index|Columns]]  [[content/Essays/_index|Essays]]  [[content/Poetry/_index|Poetry]]  [[content/Reviews/_index|Reviews]]  [[content/Short Stories/_index|Short Stories]] 
+[[About/_index|About]]  [[Books/_index|Books]]  [[Columns/_index|Columns]]  [[Essays/_index|Essays]]  [[Poetry/_index|Poetry]]  [[Reviews/_index|Reviews]]  [[Short Stories/_index|Short Stories]] 
 
 
 
