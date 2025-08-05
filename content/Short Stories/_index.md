@@ -11,3 +11,6 @@ Told in the tradition of magical realism, soft speculative fiction, and social s
 
 Each one stands alone, but together they ask a larger question:  
 **What if the unreal is the most honest thing we have left?**
+
+---
+Up to [[../index|Main]]
