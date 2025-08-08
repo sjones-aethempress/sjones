@@ -9,4 +9,4 @@ This is where I talk about the little things that make up a life—crooked thoug
 Come for the grit. Stay for the grind.
 
 ---
-Up to [[content/Columns/_index|Columns]]
+Up to [[Columns/_index|Columns]]
