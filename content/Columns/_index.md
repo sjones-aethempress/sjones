@@ -13,4 +13,4 @@ Written in the spirit of front porch storytelling and late-night diner conversat
 
 
 ---
-Up to [[content/index|Main]]
+Up to [[/index|Main]]
